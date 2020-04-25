@@ -6,6 +6,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.GridView;
 import android.widget.ImageView;
+import android.widget.Toast;
 
 public class ImageAdapter extends BaseAdapter {
     private Context dContext;
@@ -44,6 +45,7 @@ public class ImageAdapter extends BaseAdapter {
         }
         imageView.setImageResource(sPics[position]);
         return imageView;
+
 
     }
 
