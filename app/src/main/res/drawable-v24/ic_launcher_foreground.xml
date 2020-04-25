@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+    <component name="AnalysisUIOptions">
+        <option
+            name="SCOPE_TYPE"
+            value="4" />
+    </component>
+    <component name="AndroidLayouts">
+        <shared>
+            <config>
+                <device id="Nexus 5X" />
+                <target>android-28</target>
+            </config>
+        </shared>
+    </component>
+    <component name="ChangeListManager">
+        <list
+            name="Default Changelist"
+            comment=""
+            default="true"
+            id="f5f39763-15b2-421f-b5be-ab32e266b275">
+            <change
+                afterDir="false"
+                afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml"
+                beforeDir="false"
+                beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+            <change
+                afterDir="false"
+                afterPath="$PROJECT_DIR$/app/src/main/java/net/androidbootcamp/rentacarapp/Rent.java"
+                beforeDir="false"
+                beforePath="$PROJECT_DIR$/app/src/main/java/net/androidbootcamp/rentacarapp/Rent.java" />
+            <change
+                afterDir="false"
+                afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rent.xml"
+                beforeDir="false"
+                beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_rent.xml" />
+        </list>
+        <option
+            name="EXCLUDED_CONVERTED_TO_IGNORED"
+            value="true" />
+        <option
+            name="SHOW_DIALOG"
+            value="false" />
+        <option
+            name="HIGHLIGHT_CONFLICTS"
+            value="true" />
+        <option
+            name="HIGHLIGHT_NON_ACTIVE_CHANGELIST"
+            value="false" />
+        <option
+            name="LAST_RESOLUTION"
+            value="IGNORE" />
+    </component>
+    <component
+        name="ExecutionTargetManager"
+        SELECTED_TARGET="Nexus_5_API_28" />
+    <component name="ExternalProjectsData">
+        <projectState path="$PROJECT_DIR$">
+            <ProjectState />
+        </projectState>
+    </component>
+    <component name="ExternalProjectsManager">
+        <system id="GRADLE">
+            <state>
+                <projects_view />
